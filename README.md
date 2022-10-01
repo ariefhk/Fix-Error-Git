@@ -1,5 +1,5 @@
 # Fix-Error-Git
-A bunch of my experience dealing with get error
+A bunch of my experience dealing with git error
 
 ### 1. Error saat push
 ```
